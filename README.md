@@ -17,7 +17,7 @@
     </sup>
   </div>
   <div>&nbsp;</div>
-  CMD.Md
+  
 [![Documentation](https://readthedocs.org/projects/mmrotate/badge/?version=latest)](https://mmrotate.readthedocs.io/en/latest/?badge=latest)
 [![actions](https://github.com/open-mmlab/mmrotate/workflows/build/badge.svg)](https://github.com/open-mmlab/mmrotate/actions)
 [![codecov](https://codecov.io/gh/open-mmlab/mmrotate/branch/master/graph/badge.svg)](https://codecov.io/gh/open-mmlab/mmrotate)
@@ -32,7 +32,7 @@
 [🤔Reporting Issues](https://github.com/open-mmlab/mmrotate/issues/new/choose)
 </div>
 
-## Introduction MANDEEP GILL SINGH 
+## Introduction zenchin hoe 
 
 English | [简体中文](README_zh-CN.md)
 
