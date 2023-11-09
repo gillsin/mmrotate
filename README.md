@@ -32,7 +32,7 @@
 [🤔Reporting Issues](https://github.com/open-mmlab/mmrotate/issues/new/choose)
 </div>
 
-## Introduction [i really do love gillsins] 
+## Introduction [i really do love gillsins!]
 
 English | [简体中文](README_zh-CN.md)
 
