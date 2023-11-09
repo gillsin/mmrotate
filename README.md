@@ -32,8 +32,7 @@
 [🤔Reporting Issues](https://github.com/open-mmlab/mmrotate/issues/new/choose)
 </div>
 
-## Introduction [i really do love gillsins!]
-
+## Introduction 
 English | [简体中文](README_zh-CN.md)
 
 MMRotate is an open-source toolbox for rotated object detection based on PyTorch.
